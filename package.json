@@ -1,0 +1,22 @@
+{
+  "name": "arp-full",
+  "version": "1.0.0",
+  "description": "A full platform node arp scanner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xtcel/arp-full.git"
+  },
+  "keywords": [
+    "arp"
+  ],
+  "author": "xtcel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtcel/arp-full/issues"
+  },
+  "homepage": "https://github.com/xtcel/arp-full#readme"
+}
